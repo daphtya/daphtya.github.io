@@ -1,4 +1,82 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.1">Jekyll</generator><link href="https://daphtya.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://daphtya.github.io/" rel="alternate" type="text/html" /><updated>2018-05-19T19:44:50+07:00</updated><id>https://daphtya.github.io/</id><title type="html">Daphtya’s Github Page</title><subtitle>Github page for Daphtya (David Timothy Panjaitan). I'll try uploading my projects here.</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="https://daphtya.github.io/jekyll/update/2018/05/19/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2018-05-19T08:40:57+07:00</published><updated>2018-05-19T08:40:57+07:00</updated><id>https://daphtya.github.io/jekyll/update/2018/05/19/welcome-to-jekyll</id><content type="html" xml:base="https://daphtya.github.io/jekyll/update/2018/05/19/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.1">Jekyll</generator><link href="https://daphtya.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://daphtya.github.io/" rel="alternate" type="text/html" /><updated>2018-05-28T00:23:41+07:00</updated><id>https://daphtya.github.io/</id><title type="html">Daphtya’s Github Page</title><subtitle>Github page for Daphtya (David Timothy Panjaitan). I'll try uploading my projects here.</subtitle><entry><title type="html">Personal Assistants</title><link href="https://daphtya.github.io/raw-html/2018/05/19/Personal-Assistants-with-Speech-Recognition.html" rel="alternate" type="text/html" title="Personal Assistants" /><published>2018-05-19T08:40:57+07:00</published><updated>2018-05-19T08:40:57+07:00</updated><id>https://daphtya.github.io/raw-html/2018/05/19/Personal-Assistants-with-Speech-Recognition</id><content type="html" xml:base="https://daphtya.github.io/raw-html/2018/05/19/Personal-Assistants-with-Speech-Recognition.html">&lt;head&gt;
+	&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;./&quot; /&gt;
+&lt;/head&gt;
+
+&lt;h1 id=&quot;personal-assistant-dengan-natural-speech-recognition&quot;&gt;Personal Assistant dengan Natural Speech Recognition&lt;/h1&gt;
+
+&lt;h2 id=&quot;pengenalan&quot;&gt;Pengenalan&lt;/h2&gt;
+
+&lt;p&gt;Personal assistant merupakan profesi yang bertujuan membantu seseorang dalam menjalani kehidupan sehari
+hari. Baik dari urusan pekerjaan sampai rekreasi, personal assistant menangani tugas-tugas yang tidak
+terlalu penting untuk menghemat waktu. Tugas yang ditangani personal assistant berkisar dari manajemen
+waktu, penjadwalan rapat dan pertemuan, dan pengambilan catatan.&lt;/p&gt;
+
+&lt;p&gt;Setelah berkembangnya komputer modern, personal assistant mulai bermunculan dalam bentuk digital. PDA
+(Personal Digital Assistant) pertama, “The Organizer”, diluncurkan oleh Psion pada 1984, tapi istilah PDA
+sendiri baru mulai digunakan pada tahun 1992 oleh CEO Apple Computer, John Sculley, untuk mendeskripsikan
+produk Apple Newton. PDA yang dimaksud di sini adalah “handheld PC” yang memiliki koneksi telepon, internet,
+dan kemampuan menyimpan catatan. Sebagian besar PDA telah dihentikan produksinya setelah 2010 karena munculnya
+smartphone.&lt;/p&gt;
+
+&lt;p&gt;Namun, dalam beberapa tahun belakangan, istilah Personal Digital Assistant muncul kembali di dunia teknologi, kali ini
+mengacu kepada perangkat lunak yang mendeteksi suara pengguna (speech recognition) dan merespon kepada permintaan yang diajukan pengguna.
+PDA jenis ini, yang juga dinamakan Virtual Assistant, memiliki beberapa contoh nyata:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;h3 id=&quot;siri&quot;&gt;Siri&lt;/h3&gt;
+    &lt;p&gt;Siri diluncurkan untuk Apple iOS pada Februari 2010 dan diakuisisi Apple dua bulan kemudian.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;h3 id=&quot;microsoft-cortana&quot;&gt;Microsoft Cortana&lt;/h3&gt;
+    &lt;p&gt;Cortana diumumkan Microsoft pada April 2013 dan diluncurkan untuk Windows 10 pada Januari 2015.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;h3 id=&quot;amazon-alexa&quot;&gt;Amazon Alexa&lt;/h3&gt;
+    &lt;p&gt;Alexa diluncurkan Amazon sepaket dengan smart speaker buatannya, Amazon Echo, pada Juni 2015.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;h3 id=&quot;google-assistant&quot;&gt;Google Assistant&lt;/h3&gt;
+    &lt;p&gt;Assistant diluncurkan google pada Mei 2016 untuk perangkat yang menjalankan Android Marshmallow dan Nougat.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;kelebihan&quot;&gt;Kelebihan&lt;/h2&gt;
+
+&lt;p&gt;Kelebihan utama dari Personal Assistant dengan speech recognition adalah kemudahan dalam penggunaannya. Secara teori, siapapun
+yang bisa berbicara akan bisa menggunakannya. Tidak perlu mempelajari user interface dan metode input seperti pada interaksi
+dengan komputer biasa. Batas jarak untuk penggunaan alat ini juga lebih fleksibel karena bisa digunakan dari manapun di mana
+suara kita masih terdengar.&lt;/p&gt;
+
+&lt;h2 id=&quot;potensi&quot;&gt;Potensi&lt;/h2&gt;
+
+&lt;p&gt;Beberapa waktu yang lalu, pada Mei 2018, Google meluncurkan ekstensi untuk Google Assistant yang dinamakan Google Duplex.
+Ekstensi ini memungkinkan Assistant membuat panggilan telepon secara otomatis untuk memesan tempat dan mengatur waktu pertemuan.
+Menariknya, percakapan telepon yang dilakukan Google Duplex sudah sangat meyakinkan sampai nomor yang dituju tidak sadar
+bahwa mereka berbicara dengan sebuah perangkat lunak. Meski masih terbatas pada pembuatan janji pertemuan, teknologi ini
+menunjukkan bahwa perangkat lunak dapat menjalankan percakapan yang terdengar alami dan dengan pengembangan mungkin saja
+akan segera merambah ke bidang percakapan lain.&lt;/p&gt;
+
+&lt;h2 id=&quot;kekurangan&quot;&gt;Kekurangan&lt;/h2&gt;
+
+&lt;p&gt;Dengan semua kelebihan yang dimiliki personal assistant digital, masih ada beberapa kekurangan yang tersisa. Kekurangan mendasar dari
+sistem yang menggunakan suara untuk berinteraksi adalah input dan output yang hanya bisa terjadi dalam satu arah pada suatu waktu. Sebagai
+akibatnya, alat tidak bisa digunakan untuk tugas yang lebih kompleks seperti browsing. Selain itu, sistem pengenalan suara yang belum sempurna 
+dalam mengenali perintah pengguna, dibarengi dengan fakta bahwa alat selalu mendengarkan suara di sekitarnya, memungkinkan terjadinya kasus 
+pelanggaran privasi seperti yang akan dibahas pada bagian berikutnya.&lt;/p&gt;
+
+&lt;h2 id=&quot;ancaman-privasi&quot;&gt;Ancaman Privasi&lt;/h2&gt;
+
+&lt;p&gt;Dalam suatu kasus yang terjadi baru-baru ini juga, percakapan dari sepasang pengguna Amazon Echo direkam dan dikirim ke seseorang di daftar kontak 
+tanpa sepengetahuan mereka. Menurut Amazon, hal ini mungkin disebabkan kesalahan dalam speech recognition yang menginterpretasi percakapan dalam ruangan 
+secara berturut-turut, mulai dari aktivasi alat (pemanggilan “Alexa”), pemilihan perintah (“Send Message”), pemilihan kontak tujuan dari kontak, sampai 
+konfirmasi pengiriman pesan. Kebetulan yang terkesan tidak dapat dipercaya tapi benar-benar terjadi ini menunjukkan masih adanya kekurangan dalam
+teknologi ini. Dalam kasus ini, pengguna tidak mengalami kerugian materiil, tapi ancaman terhadap privasi yang diakibatkan alat yang selalu mendengarkan
+terasa nyata bagi mereka.&lt;/p&gt;
+
+&lt;h2 id=&quot;kesimpulan&quot;&gt;Kesimpulan&lt;/h2&gt;
+
+&lt;p&gt;Keseluruhan, teknologi ini masih dalam perkembangan dan masih ada kekurangan. Tapi, perkembangan teknologi ini sangat pesat dan penulis sendiri yakin 
+kekurangan-kekurangan yang ada akan ditangani di masa depan. Karena jika di masa depan akan lebih banyak Intelejensi Buatan yang terintegrasi dengan kehidupan sehari-hari, teknologi ini akan menjadi landasan penting untuk mencapainya.&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="https://daphtya.github.io/jekyll/update/2018/05/19/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2018-05-19T08:40:57+07:00</published><updated>2018-05-19T08:40:57+07:00</updated><id>https://daphtya.github.io/jekyll/update/2018/05/19/welcome-to-jekyll</id><content type="html" xml:base="https://daphtya.github.io/jekyll/update/2018/05/19/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
 
 &lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
 
