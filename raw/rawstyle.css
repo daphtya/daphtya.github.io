@@ -5,6 +5,21 @@ body {
 	margin: auto;
 }
 
+h1 {
+	font-style: normal;
+	font-family: Helvetica;
+	font-kerning: normal;
+}
+
 p {
 	background-color: #EEEEEE;
+}
+
+img {
+	margin-left: 500px;
+}
+
+#img1-subtext {
+	font-style: italic;
+	margin-left: 520px;
 }
