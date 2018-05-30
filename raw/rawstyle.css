@@ -1,7 +1,17 @@
+@media screen and (min-width: 1000px) {
+   #main {width:1000px}
+}
+@media screen and (max-width: 1000px) {
+   #main {width:600px}
+}
+@media screen and (max-width: 600px) {
+   #main {width:100%;
+	  margin:0px;}
+}
+
 body {
-	background-color: #EEE;
+	background-color: #DDD;
 	font-family: Roboto, Helvetica;
-	max-width: 800px;
 	margin: auto;
 }
 
@@ -11,15 +21,43 @@ h1 {
 	font-kerning: normal;
 }
 
-p {
-	background-color: #EEEEEE;
+
+header a {
+	color: white;
+	font-style: normal;
+	text-decoration: none;
 }
 
-img {
-	margin-left: 500px;
+
+header {
+	background-color: darkblue;
+	padding: 10px;
+	color: white;
+	font-style: normal;
+	text-align: center;
+	text-shadow: 3px 3px 2px gray;
 }
 
-#img1-subtext {
+header h3 {
 	font-style: italic;
-	margin-left: 520px;
 }
+
+figure {
+	text-align: center;
+}
+
+figcaption {
+	font-style: italic;
+}
+
+#main {
+	margin: auto;
+	background-color: #FFE;
+	box-shadow: 5px 5px 3px gray;
+}
+
+#content {
+	padding: 30px;
+}
+
+
