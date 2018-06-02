@@ -1,4 +1,68 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.1">Jekyll</generator><link href="https://daphtya.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://daphtya.github.io/" rel="alternate" type="text/html" /><updated>2018-05-30T22:07:13+07:00</updated><id>https://daphtya.github.io/</id><title type="html">Daphtya’s Github Page</title><subtitle>Github page for Daphtya (David Timothy Panjaitan). I'll try uploading my projects here.</subtitle><entry><title type="html">Personal Assistants</title><link href="https://daphtya.github.io/raw-html/2018/05/19/Personal-Assistants-with-Speech-Recognition.html" rel="alternate" type="text/html" title="Personal Assistants" /><published>2018-05-19T08:40:57+07:00</published><updated>2018-05-19T08:40:57+07:00</updated><id>https://daphtya.github.io/raw-html/2018/05/19/Personal-Assistants-with-Speech-Recognition</id><content type="html" xml:base="https://daphtya.github.io/raw-html/2018/05/19/Personal-Assistants-with-Speech-Recognition.html">&lt;head&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.1">Jekyll</generator><link href="https://daphtya.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://daphtya.github.io/" rel="alternate" type="text/html" /><updated>2018-06-02T14:54:17+07:00</updated><id>https://daphtya.github.io/</id><title type="html">Daphtya’s Github Page</title><subtitle>Github page for Daphtya (David Timothy Panjaitan). I'll try uploading my projects here.</subtitle><entry><title type="html">Search Engines: Sejarah dan Metode</title><link href="https://daphtya.github.io/2018/06/02/Search-Engine-Sejarah-dan-Metode.html" rel="alternate" type="text/html" title="Search Engines: Sejarah dan Metode" /><published>2018-06-02T08:40:57+07:00</published><updated>2018-06-02T08:40:57+07:00</updated><id>https://daphtya.github.io/2018/06/02/Search-Engine-Sejarah-dan-Metode</id><content type="html" xml:base="https://daphtya.github.io/2018/06/02/Search-Engine-Sejarah-dan-Metode.html">&lt;p&gt;Search engine, atau mesin pencari, merupakan sistem perangkat lunak yang dirancang untuk mengambil informasi dari jaringan. Informasi yang diambil dapat berupa halaman web, gambar, atau file lainnya.&lt;/p&gt;
+
+&lt;h2 id=&quot;sejarah&quot;&gt;Sejarah&lt;/h2&gt;
+
+&lt;p&gt;Search Engine sudah ada dari sebelum world wide web diluncurkan pada Desember 1990. Search engine seperti “Who is” yang dibuat pada 1982 dan “Knowbot Information Service” yang dibuat pada 1989 sudah ada untuk mencari user dalam suatu jaringan.&lt;/p&gt;
+
+&lt;p&gt;Pada awal peluncuran, keseluruhan World Wide Web diindeks secara manual dengan mendaftar semua server yang ada. Namun, karena perkembangan internet yang pesat, daftar yang dibuat akhirnya tidak dapat mencatat semuanya. Seiring perkembangan internet, beberapa search engine dibuat untuk mencari konten di internet. Tapi, pencarian masih didasarkan pada katalog web yang dibuat dan bukan berdasarkan  keseluruhan konten dari suatu halaman web.&lt;/p&gt;
+
+&lt;p&gt;Sekitar tahun 2000,  Google menjadi Search engine dominan karena hasil pencariannya yang lebih baik, didasarkan pada algoritma PageRank yang dibuat oleh Sergey Brin dan Larry Page, para pendiri Google. Algoritma PageRank mengurutkan hasil pencarian berdasarkan jumlah dan Rank semua halaman yang memiliki link ke halaman tersebut.&lt;/p&gt;
+
+&lt;h2 id=&quot;metode&quot;&gt;Metode&lt;/h2&gt;
+
+&lt;p&gt;Search Engine modern seperti Google menggunakan proses Web Crawling dan Indexing untuk mengumpulkan dan mengorganisir data dari internet dan menyiapkannya untuk diberikan kepada pengguna yang memintanya.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;h3 id=&quot;web-crawling&quot;&gt;Web Crawling&lt;/h3&gt;
+    &lt;p&gt;Crawling dilakukan menggunakan perangkat lunak yang disebut Crawler. Crawler ini akan menelusuri halaman-halaman web melalui setiap link yang terdapat pada halaman web yang telah dikunjungi. Crawler ini akan mengumpulkan data dari halaman web yang dikunjungi dan mengirmkan kembali data itu ke server mesin pencari untuk diproses.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;h3 id=&quot;indexing&quot;&gt;Indexing&lt;/h3&gt;
+    &lt;p&gt;Indexing dilakukan untuk mengorganisir data yang dikumpulkan oleh Crawler berdasarkan faktor-faktor seperti waktu penerbitan halaman dan kata-kata kunci dalam halaman tersebut. Data yang telah diindeks kemudian disimpan di server Search Engine, siap untuk dicari.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;h3 id=&quot;searching&quot;&gt;Searching&lt;/h3&gt;
+    &lt;p&gt;Searching dilakukan saat pengguna memasukkan query ke mesin pencari. Search Engine kemudian menggunakan algortima pencariannya untuk mengambil data berdasarkan indeks pencarian yang telah dibuat.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Pada Google, search query yang dimasukkan pengguna diproses dahulu untuk menambah akurasi pencarian. Algoritma dibalik proses tersebut terus dikembangkan setiap tahunnya. Saat artikel ini dibuat, secara garis besar proses tersebut terdiri dari:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;h3 id=&quot;analisis-per-kata&quot;&gt;Analisis per kata&lt;/h3&gt;
+    &lt;p&gt;Setiap kata dicek untuk kesalahan penulisan dan sinonim dari kata tersebut. Hubungan antar kata dalam membentuk kalimat juga diproses untuk menentukan tipe data yang diminta pengguna.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;h3 id=&quot;mencocokkan-query&quot;&gt;Mencocokkan query&lt;/h3&gt;
+    &lt;p&gt;Query yang telah diproses kemudian dicari dalam indeks pencarian Google. Pencarian di indeks berdasarkan pada kecocokan kata kunci dan relevansi halaman dengan query.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;h3 id=&quot;mengurutkan-hasil-pencarian&quot;&gt;Mengurutkan Hasil Pencarian&lt;/h3&gt;
+    &lt;p&gt;Hasil pencarian diurutkan dengan beberapa faktor seperti waktu penerbitan, jumlah kata kunci yang cocok, feedback dari pengguna, dan ranking halaman sesuai algoritma PageRank. Selain itu, halaman-halaman yang dianggap spam dihilangkan dari hasil pencarian.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;h3 id=&quot;mencari-konteks&quot;&gt;Mencari Konteks&lt;/h3&gt;
+    &lt;p&gt;Data yang lebih relevan dengan query pengguna ditentukan berdasarkan lokasi pengguna, riwayat pencarian, dan setting pencarian pengguna.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;h3 id=&quot;menyajikan-hasil-terbaik&quot;&gt;Menyajikan hasil terbaik&lt;/h3&gt;
+    &lt;p&gt;Di antara hasil akhir pencarian, diusahakan hasil yang ditunjukkan cukup beragam dan tidak berupa duplikat atau terlalu sama dengan hasil lain.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Jika bisa, data yang diminta pengguna disajikan secara langsung pada halaman hasil pencarian secara singkat dan mudah dibaca untuk memberikan respon yang cepat tanpa harus membuka link ke halaman lain.&lt;/p&gt;
+
+&lt;h2 id=&quot;kesimpulan&quot;&gt;Kesimpulan&lt;/h2&gt;
+&lt;p&gt;Search Engine telah berkembang jauh dari sebelum diluncurkannya World Wide Web dan masih terus berkembang sampai sekarang. Algoritma yang digunakan juga terus berubah untuk memberikan pengguna hasil yang paling optimal.&lt;/p&gt;
+
+&lt;h2 id=&quot;sumber&quot;&gt;Sumber&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;https://psu.pb.unizin.org/ist110/chapter/2-1-search-engines/&quot;&gt;Search Engines&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.google.com/search/howsearchworks/&quot;&gt;How Google Search Work&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;</content><author><name></name></author><summary type="html">Search engine, atau mesin pencari, merupakan sistem perangkat lunak yang dirancang untuk mengambil informasi dari jaringan. Informasi yang diambil dapat berupa halaman web, gambar, atau file lainnya.</summary></entry><entry><title type="html">Personal Assistants</title><link href="https://daphtya.github.io/raw-html/2018/05/19/Personal-Assistants-with-Speech-Recognition.html" rel="alternate" type="text/html" title="Personal Assistants" /><published>2018-05-19T08:40:57+07:00</published><updated>2018-05-19T08:40:57+07:00</updated><id>https://daphtya.github.io/raw-html/2018/05/19/Personal-Assistants-with-Speech-Recognition</id><content type="html" xml:base="https://daphtya.github.io/raw-html/2018/05/19/Personal-Assistants-with-Speech-Recognition.html">&lt;head&gt;
 	&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;./&quot; /&gt;
 &lt;/head&gt;
 
